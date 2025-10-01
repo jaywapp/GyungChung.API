@@ -1,4 +1,4 @@
-﻿using GyungChung.API.Models;
+﻿using GyungChung.Core.Models;
 using MongoDB.Driver;
 
 namespace GyungChung.API.Services

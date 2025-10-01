@@ -1,8 +1,6 @@
-﻿using GyungChung.API.Models;
-using GyungChung.API.Services;
+﻿using GyungChung.API.Services;
+using GyungChung.Core.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 [ApiController]
 [Route("api/[controller]")]

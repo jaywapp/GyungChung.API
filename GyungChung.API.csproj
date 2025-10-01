@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GyungChung.Models\GyungChung.Models.csproj" />
+    <ProjectReference Include="..\GyungChung.Core\GyungChung.Core.csproj" />
   </ItemGroup>
-
 </Project>

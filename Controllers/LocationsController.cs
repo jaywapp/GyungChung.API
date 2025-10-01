@@ -1,5 +1,5 @@
-﻿using GyungChung.API.Models;
-using GyungChung.API.Services;
+﻿using GyungChung.API.Services;
+using GyungChung.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
